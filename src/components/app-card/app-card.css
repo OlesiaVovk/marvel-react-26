@@ -1,0 +1,24 @@
+.heroCard {
+    /* width: 50vw; */
+    height: 90vh;
+    background-color: bisque;
+    border: 1px solid burlywood;
+    border-radius: 5px;
+    padding: 10px 30px;
+    margin: 0 auto 20px;
+}
+
+
+div {
+    margin-bottom: 10px;
+}
+
+img {
+    display: flex;
+    margin: 10px auto 0;
+    width: 30vw;
+}
+
+.bold {
+    font-weight: 700;
+}
